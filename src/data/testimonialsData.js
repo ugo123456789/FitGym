@@ -5,20 +5,19 @@ import image3 from "../assets/t-image3.jpg";
 export const testimonialsData = [
   {
     image: image1,
-    review:
-      "I made the right choice by choosing the Fitclub and by choosing the right plan and program I already achieved my ideal body!",
+    review: "The difference in body composition I’ve achieved over a 12 week period plus in the middle of a pandemic and working around gym closures is something I didn’t think would be possible.",
     name: 'MATHEW HENDRICKSON',
     status : 'ENTREPRENEUR'
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
+    review: 'The process and training was great – every session felt different and challenging whether we progressed with weight, reps or controlled movement.    ',
     name: 'JOHN KEVIN',
     status: 'COACH'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review: "So far I am thrilled with the results, and am looking forward to pushing towards my final goal over the last couple of weeks. To be continued…",
     name: 'FRANKLIN',
     status: "CUSTOMER"
   }
